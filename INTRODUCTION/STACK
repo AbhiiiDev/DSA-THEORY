@@ -1,0 +1,3 @@
+A stack is an abstract data type that specifies a linear data structure, as in a real physical stack or piles where
+you can only take the top item off the stack in order to remove things. Thus, insertion (push) and deletion (pop) of items 
+take place only at one end called top of the stack, with a particular order: LIFO (Last In First Out) or FILO (First In Last Out).
