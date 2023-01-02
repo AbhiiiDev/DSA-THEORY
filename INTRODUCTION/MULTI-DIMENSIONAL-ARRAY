@@ -1,0 +1,5 @@
+A multidimensional array is a multidimensional array with more than one dimension. 
+It is an array of arrays or an array with numerous layers. The 2D array, or two-dimensional array, is the most basic multidimensional array.
+As you'll see in the code, it's technically an array of arrays. A 2D array is also referred to as a matrix or a table with rows and columns.
+Declaring a multidimensional array is the same as saying a one-dimensional array. 
+We need to notify C that we have two dimensions for a two-dimensional array.
