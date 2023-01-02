@@ -1,0 +1,5 @@
+A data structure is linear if all its elements or data items are arranged in a sequence or a linear order. 
+The elements are stored in a non-hierarchical way so that each item has successors and predecessors except the first and 
+last element in the list.
+
+Examples of linear data structures are Arrays, Stack, Strings, Queue, and Linked List.
