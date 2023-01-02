@@ -1,0 +1,7 @@
+The following are the types of data structures:
+
+Lists: A collection of related things linked to the previous or/and following data items.
+Arrays: A collection of values that are all the same.
+Records: A collection of fields, each of which contains data from a single data type.
+Trees: A data structure that organizes data in a hierarchical framework. This form of data structure follows the ordered order of data item insertion, deletion, and modification.
+Tables: The data is saved in the form of rows and columns. These are comparable to records in that the outcome or alteration of data is mirrored across the whole table.
