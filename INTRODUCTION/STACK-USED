@@ -1,5 +1,5 @@
-Expression, evaluation, or conversion of evaluating prefix, postfix, and infix expressions
-Syntax parsing
-String reversal
-Parenthesis checking
-Backtracking
+1.Expression, evaluation, or conversion of evaluating prefix, postfix, and infix expressions
+2.Syntax parsing
+3.String reversal
+4.Parenthesis checking
+5.Backtracking
