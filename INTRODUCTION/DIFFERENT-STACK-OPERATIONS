@@ -1,7 +1,7 @@
 Some of the main operations provided in the stack data structure are: 
 
-push: This adds an item to the top of the stack. The overflow condition occurs if the stack is full.
-pop: This removes the top item of the stack. Underflow condition occurs if the stack is empty.
-top: This returns the top item from the stack.
-isEmpty: This returns true if the stack is empty else false.
-size:  This returns the size of the stack
+1. push: This adds an item to the top of the stack. The overflow condition occurs if the stack is full.
+2. pop: This removes the top item of the stack. Underflow condition occurs if the stack is empty.
+3. top: This returns the top item from the stack.
+4. Empty: This returns true if the stack is empty else false.
+5. e:  This returns the size of the stack
