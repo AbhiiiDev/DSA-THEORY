@@ -1,0 +1,6 @@
+enqueue: This adds an element to the rear end of the queue.  Overflow conditions occur if the queue is full.
+dequeue: This removes an element from the front end of the queue. Underflow conditions occur if the queue is empty.
+isEmpty: This returns true if the queue is empty or else false.
+rear: This returns the rear end element without removing it.
+front: This returns the front-end element without removing it.
+size: This returns the size of the queue
