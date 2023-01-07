@@ -1,0 +1,7 @@
+
+File Structure: Representation of data into secondary or auxiliary memory say any device
+such as a hard disk or pen drives that stores data which remains intact until manually deleted is known as a file structure representation.
+Storage Structure: In this type, data is stored in the main memory i.e RAM, and is deleted once the function that uses this data 
+gets completely executed.
+The difference is that the storage structure has data stored in the memory of the computer system,
+whereas the file structure has the data stored in the auxiliary memory
