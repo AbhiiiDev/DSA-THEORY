@@ -1,0 +1,16 @@
+A deque can be thought of as an array of items, but with one important difference: Instead of pushing and popping items off
+the end to make room, deques are designed to allow items to be inserted at either end. This property makes deques well-suited 
+for performing tasks such as keeping track of inventory, scheduling tasks, or handling large amounts of data.
+
+
+There are two types of deque:
+
+1. put Restricted Deque: Insertion operations are performed at only one end while deletion is performed at both ends in the input restricted queue.
+
+2. put Restricted Deque: Deletion operations are performed at only one end while insertion is performed at both ends in the output restricted queue.
+
+Following are some real-time applications for deque data structure: 
+
+It can be used as both stack and queue, as it supports all the operations for both data structures.
+Web browser’s history can be stored in a deque.
+Operating systems job scheduling algorithm
