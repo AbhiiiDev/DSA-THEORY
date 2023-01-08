@@ -1,0 +1,23 @@
+Tree traversal is the process of visiting all the nodes of a tree. Since the root (head) is the first node and
+all nodes are connected via edges (or links) we always start with that node. There are three ways which we use to traverse a tree −
+
+1. Inorder Traversal:
+
+Algorithm:
+Step 1. Traverse the left subtree, i.e., call Inorder(root.left)
+Step 2. Visit the root.
+Step 3. Traverse the right subtree, i.e., call Inorder(root.right)
+Inorder traversal in Java:
+     // Print inorder traversal of given tree.
+     void printInorderTraversal(Node root) 
+     { 
+         if (root == null) 
+             return;
+         //first traverse to the left subtree
+         printInorderTraversal(root.left);
+         //then print the data of node
+         System.out.print(root.data + " ");
+         //then traverse to the right subtree
+         printInorderTraversal(root.right); 
+     }
+Uses: In binary search trees (BST), inorder traversal gives nodes in ascending order.
