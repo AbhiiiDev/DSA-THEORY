@@ -1,0 +1,2 @@
+Hashmap is a data structure that uses an implementation of a hash table data structure which allows access to data in constant time (O(1)) complexity
+if you have the key
