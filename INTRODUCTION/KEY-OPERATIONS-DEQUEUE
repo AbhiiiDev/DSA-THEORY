@@ -1,0 +1,10 @@
+Following are the key operations available deque:
+
+insertFront(): This adds an element to the front of the Deque.
+insertLast(): This adds an element to the rear of the Deque.
+deleteFront(): This deletes an element from the front of the Deque.
+deleteLast():This deletes an element from the front of the Deque.
+getFront(): This gets an element from the front of the Deque. 
+getRear(): This gets an element from the rear of the Deque. 
+isEmpty(): This checks whether Deque is empty or not.
+isFull(): This checks whether Deque is full or not.
