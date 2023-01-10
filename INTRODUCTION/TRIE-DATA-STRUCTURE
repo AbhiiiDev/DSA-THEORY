@@ -1,0 +1,11 @@
+The word "Trie" is an abbreviation for "retrieval." Trie is a data structure that stores a set of strings as a sorted tree. Each node has the same
+number of pointers as the number of alphabet characters. It can look up a word in the dictionary by using its prefix. Assuming that all strings are 
+formed from the letters 'a' to 'z' in the English alphabet, each trie node can have a maximum of 26 points.
+
+Trie is also referred to as the digital tree or the prefix tree. The key to which a node is connected is determined by its position in the Trie. 
+Trie allows us to insert and find strings in O(L) time, where L is the length of a single word. This is clearly faster than BST. Because of how it is implemented,
+this is also faster than Hashing. There is no need to compute a hash function. There is no need to handle collisions (like we do in open addressing and separate chaining)
+
+Another benefit of Trie is that we can easily print all words in alphabetical order, which is not easy with hashing.
+Trie can also perform prefix search (or auto-complete) efficiently.
+
