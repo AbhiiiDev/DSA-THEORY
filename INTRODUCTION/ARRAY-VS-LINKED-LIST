@@ -1,0 +1,8 @@
+                  Arrays	                                                                                         Linked Lists                                     
+An array is a collection of data elements of the same type.	                             A linked list is a collection of entities known as nodes. The node is divided into two sections: data and address.
+It keeps the data elements in a single memory.	                                         It stores elements at random, or anywhere in the memory.
+The memory size of an array is fixed and cannot be changed during runtime.              	The memory size of a linked list is allocated during runtime.
+An array's elements are not dependent on one another.	                                  Linked List elements are dependent on one another.
+It is easier and faster to access an element in an array.                               	In the linked list, it takes time to access an element.
+Memory utilization is ineffective in the case of an array.                              	Memory utilization is effective in the case of an array.
+Operations like insertion and deletion take longer time in an array.                  	Operations like insertion and deletion are faster in the linked list.
