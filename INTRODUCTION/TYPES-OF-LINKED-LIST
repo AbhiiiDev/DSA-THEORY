@@ -1,0 +1,25 @@
+Following are different types of linked lists:
+
+1. Singly Linked List: A singly linked list is a data structure that is used to store multiple items. The items are linked together using the key. 
+The key is used to identify the item and is usually a unique identifier. In a singly linked list, each item is stored in a separate node. 
+The node can be a single object or it can be a collection of objects. When an item is added to the list, the node is updated and the new item is added to 
+the end of the list. When an item is removed from the list, the node that contains the removed item is deleted and its place is taken by another node. 
+The key of a singly linked list can be any type of data structure that can be used to identify an object. For example, it could be an integer, a string,
+or even another singly linked list. Singly-linked lists are useful for storing many different types of data. For example, they are commonly used to store
+lists of items such as grocery lists or patient records. They are also useful for storing data that is time sensitive such as stock market prices or flight
+schedules.
+
+
+2. Doubly Linked List: A doubly linked list is a data structure that allows for two-way data access such that each node in the list points to the next node in
+the list and also points back to its previous node. 
+In a doubly linked list, each node can be accessed by its address, and the contents of the node can be accessed by its index. It's ideal for applications that 
+need to access large amounts of data in a fast manner. A disadvantage of a doubly linked list is that it is more difficult to maintain than a single-linked list.
+In addition, it is more difficult to add and remove nodes than in a single-linked list.
+
+
+3. Circular Linked List: A circular linked list is a unidirectional linked list where each node points to its next node and the last node points back to the 
+first node, which makes it circular.
+
+
+4. Doubly Circular Linked List: A doubly circular linked list is a linked list where each node points to its next node and its previous node and the last
+node points back to the first node and first node’s previous points to the last node.
