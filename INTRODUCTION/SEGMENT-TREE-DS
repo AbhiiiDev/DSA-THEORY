@@ -1,0 +1,20 @@
+A segment Tree is a binary tree that is used to store intervals or segments. The Segment Tree is made up of nodes that represent intervals.
+Segment Tree is used when there are multiple range queries on an array and changes to array elements.
+
+The segment tree of array A[7] will look like this:
+
+
+Following are key operations performed on the Segment tree data structure:
+
+Building Tree: In this step, we create the structure and initialize the segment tree variable.
+Updating the Tree: In this step, we change the tree by updating the array value at a point or over an interval.
+Querying Tree: This operation can be used to run a range query on the array.
+Following are real-time applications for Segment Tree:
+
+Used to efficiently list all pairs of intersecting rectangles from a list of rectangles in the plane.
+The segment tree has become popular for use in pattern recognition and image processing.
+Finding range sum/product, range max/min, prefix sum/product, etc
+Computational geometry
+Geographic information systems
+Static and Dynamic RMQ (Range Minimum Query)
+Storing segments in an arbitrary manner
