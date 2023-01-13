@@ -1,0 +1,10 @@
+             Breadth First Search (BFS)	                                                                   Depth First Search (DFS)
+It stands for “Breadth First Search”                                                          	It stands for “Depth First Search”
+BFS (Breadth First Search) finds the shortest path using the Queue data structure.	                  DFS (Depth First Search) finds the shortest path using the Stack data structure.
+We walk through all nodes on the same level before passing to the next level in BFS.	            DFS begins at the root node and proceeds as far as possible through the nodes until we reach the node with no unvisited nearby nodes.
+When compared to DFS, BFS is slower.	When compared to BFS, DFS is faster.
+BFS performs better when the target is close to the source.	                                     DFS performs better when the target is far from the source.
+BFS necessitates more memory.	DFS necessitates less memory.
+Nodes that have been traversed multiple times are removed from the queue.                         	When there are no more nodes to visit, the visited nodes are added to the stack and then removed.
+Backtracking is not an option in BFS.	                                                       The DFS algorithm is a recursive algorithm that employs the concept of backtracking.
+It is based on the FIFO principle (First In First Out).	                                      It is based on the LIFO principle (Last In First Out).
