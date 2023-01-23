@@ -1,0 +1,14 @@
+Adjacency Matrix is a two-dimensional array with the dimensions V x V, where V is the number of vertices in a graph. 
+Representation is simpler to implement and adhere to. It takes O(1) time to remove an edge.
+Queries such as whether there is an edge from vertex 'u' to vertex 'v' are efficient and can be completed in O(1).
+
+
+One of the cons of this representation is that even if the graph is sparse (has fewer edges), it takes up the same amount of space. 
+Adding a vertex takes O(V^2). It also takes O(V) time to compute all of a vertex's neighbours, 
+which is not very efficient.Adjacency Matrix is a two-dimensional array with the dimensions V x V, where V is the number of vertices in a graph.
+Representation is simpler to implement and adhere to. It takes O(1) time to remove an edge.
+Queries such as whether there is an edge from vertex 'u' to vertex 'v' are efficient and can be completed in O(1).
+
+
+One of the cons of this representation is that even if the graph is sparse (has fewer edges), it takes up the same amount of space. 
+Adding a vertex takes O(V^2). It also takes O(V) time to compute all of a vertex's neighbours, which is not very efficient.
