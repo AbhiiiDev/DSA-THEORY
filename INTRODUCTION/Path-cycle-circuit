@@ -1,0 +1,4 @@
+#Path: A Path is the sequence of adjacent vertices connected by the edges with no restrictions.
+#Cycle: A Cycle can be defined as the closed path where the initial vertex is identical to the end vertex. 
+Any vertex in the path can not be visited twice
+#Circuit: A Circuit can be defined as the closed path where the intial vertex is identical to the end vertex. Any vertex may be repeated.
