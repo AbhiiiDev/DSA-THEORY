@@ -1,0 +1,2 @@
+Arrow functions are a concise and short way to write functions in ES6 and above. They are a way for you to condense your algorithmic logic. 
+The following example describes an arrow function which simply prints “hello” in the JavaScript console.
